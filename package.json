@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ToiletTakos/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.3.0"
+    "jest": "^27.3.1"
   }
 }
